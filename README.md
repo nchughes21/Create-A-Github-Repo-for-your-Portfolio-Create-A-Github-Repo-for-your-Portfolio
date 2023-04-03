@@ -23,13 +23,25 @@
 ## Projects
 
  ### Project 1
+Description of the project, including technologies used and your role in the project.<br>
 
+GitHub repository: link<br>
+
+Live demo: link (if applicable)<br>
 
  ### Project 2
+Description of the project, including technologies used and your role in the project.<br>
 
+GitHub repository: link<br>
+
+Live demo: link (if applicable)<br>
 
  ### Project 3
+Description of the project, including technologies used and your role in the project.<br>
 
+GitHub repository: link<br>
+
+Live demo: link (if applicable)<br>
 
 ## Experience
 
