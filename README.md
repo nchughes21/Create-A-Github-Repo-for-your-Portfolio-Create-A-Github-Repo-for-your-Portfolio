@@ -12,7 +12,7 @@
 - Currently attending Catawba: due to graduate in spring of 2023
 
 ## Skills
--java
+-java\n
 -python
 -html
 -css
