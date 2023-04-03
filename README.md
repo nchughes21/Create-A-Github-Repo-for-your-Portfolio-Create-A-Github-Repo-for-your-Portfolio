@@ -13,10 +13,10 @@
 
 ## Skills
 -java<br>
--python
--html
--css
--extensive knowledge in computer hardware
+-python<br>
+-html<br>
+-css<br>
+-extensive knowledge in computer hardware<br>
 -Networking
 
 
