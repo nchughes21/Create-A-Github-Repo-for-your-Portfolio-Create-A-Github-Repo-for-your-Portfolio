@@ -44,10 +44,13 @@ GitHub repository: link<br>
 Live demo: link (if applicable)<br>
 
 ## Experience
+Habitat for Humanity(5 years) - Employee <br>
 
+Habitat for Humanity(1 year) - IT Specialist
 
 ## Certifications
 
+-----<br>
 
 ## Awards and Honors
 
