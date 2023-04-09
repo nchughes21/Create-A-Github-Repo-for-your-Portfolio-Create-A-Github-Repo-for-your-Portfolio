@@ -25,6 +25,8 @@
  ### Project 1
 Description of the project, including technologies used and your role in the project.<br>
 
+[homework7_decision_trees.ipynb - ColaboratoryPDF.pdf](https://github.com/nchughes21/Create-A-Github-Repo-for-your-Portfolio-Create-A-Github-Repo-for-your-Portfolio/files/11185939/homework7_decision_trees.ipynb.-.ColaboratoryPDF.pdf)
+
 GitHub repository: link<br>
 
 Live demo: link (if applicable)<br>
